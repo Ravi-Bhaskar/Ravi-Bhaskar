@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi-bhaskar" alt="ravi-bhaskar" /></a> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **robinkr1249@gmail.com**
 
-- ⚡ Fun fact **Still learning XD**
+- ⚡ Fun fact **Still learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
