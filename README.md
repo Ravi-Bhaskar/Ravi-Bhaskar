@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravi-bhaskar" alt="ravi-bhaskar" /></a> </p>
 
-- 🌱 I’m currently learning **DSA** and working on improving my React skills  
-- 💻 I’ve built web projects like **Rent Dhundo**, **Salary Prediction Dashboard**, and a **Note-taking App using localStorage**  
-- 🧠 Interested in **Machine Learning**, **React**, and **Full-Stack Development**  
+- 🌱 I’m currently learning **DSA** and deepening my React + MERN stack knowledge  
+- 💻 Projects: **Rent Dhundo**, **Eco-Friendly Product**, **Custom Note App**  
+- 🧠 Interests: **Frontend Engineering**, **Full-Stack Web Development**  
 - 📫 Reach me at **robinkr1249@gmail.com**  
 - ⚡ Fun fact: **Still learning every day!**
 
@@ -20,15 +20,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Frontend -->
   <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color:white"/> </a>
+
+  <!-- Database -->
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+
+  <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+
+  <!-- Others -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravi-bhaskar&show_icons=true&locale=en" alt="ravi-bhaskar" /></p>
+
 
